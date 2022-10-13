@@ -1,6 +1,6 @@
 from selenium import webdriver
-from .import def_comman
-from .import test_data
+import def_comman
+import test_data
 
 
 url = test_data.url[0]
